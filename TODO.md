@@ -6,3 +6,5 @@
 - [ ] JavaScript / TypeScript API Docs
   - [x] An API docs generator: https://github.com/kazupon/api-docs-gen
   - [ ] A VSCode extensions of API docs references
+- [ ] monorepo task managemnt tools
+- [ ] GitHub Sponsors management tools
