@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm kazupon!
 
-- 🏃 I’m currently working on [Intlify](https://github.com/orgs/intlify/projects/1) projects and projects witin the Vue.js ecosystem
+- 🏃 I’m currently working on [Intlify](https://github.com/orgs/intlify/projects/1) projects and projects within the Vue.js ecosystem
 - 🌱 I’m currently interested in the future of i18n & WASM
 - 🎙 My conference and meetup event slides can be viewed [here](https://speakerdeck.com/kazupon/)
 - 🏆 [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003668?fullName=Kazuya%20%20Kawaguchi)
