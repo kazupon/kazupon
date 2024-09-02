@@ -2,7 +2,7 @@
 
 - 🏃 I’m currently working on [Intlify](https://github.com/orgs/intlify/projects/1) projects (e.g. vue-i18n) and projects within the Vue.js and Nuxt ecosystem (nuxt-i18n)
 - 🌱 I’m currently interested in the future of i18n & wasm
-- 📦 Recently open source software [releaseing](https://releases.kazupon.dev/)
+- 📦 Recently open source software [releasing](https://releases.kazupon.dev/)
 - 🫶 Recently open source [contributions](https://contributions.kazupon.dev/)
 - 🎙 Conferences and meetup events my slides can be viewed [here](https://speakerdeck.com/kazupon/)
 - 🏆 [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003668?fullName=Kazuya%20%20Kawaguchi)
